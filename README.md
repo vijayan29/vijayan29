@@ -41,15 +41,18 @@ B.Tech student in **Artificial Intelligence & Data Science** with a focus on **P
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,git,github,vscode,azure&theme=dark" />
 
 </div>
+
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 
 | Category | Stack |
 |---|---|
 | 💻 **Languages** | PHP · JavaScript · HTML5 · CSS3 · SQL |
 | 🗄️ **Database** | MySQL |
-| 🧰 **Tools & Platforms** | Git · GitHub · VS Code · XAMPP · Oracle Cloud Infrastructure |
+| ☁️ **Cloud Computing** | Oracle Cloud Infrastructure (OCI) · Cloud Fundamentals · Cloud Security Basics |
+| 🧰 **Tools & Platforms** | Git · GitHub · VS Code · XAMPP |
 | 🌱 **Currently Learning** | Laravel · React · DevOps |
 
 <br>
