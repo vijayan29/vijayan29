@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Vijayan%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20DS%20Student%20%7C%20PHP%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Vijayan%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science+Student;PHP+Full+Stack+Developer;Oracle+Cloud+Certified+%E2%98%81%EF%B8%8F;Daily+LeetCode+Practitioner+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science+Student;PHP+Full+Stack+Developer;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-B.Tech student in **Artificial Intelligence & Data Science** with a focus on **PHP full stack development**. Oracle Cloud Infrastructure Foundations Associate (2026). Currently leveling up in Laravel, React, and DevOps, and building a consistent problem-solving habit on LeetCode.
+B.Tech student in **Artificial Intelligence & Data Science** with a focus on **PHP full stack development**. Oracle Cloud Infrastructure Foundations Associate (2026). Currently leveling up in Laravel, React, and DevOps.
 
 > 🎯 Open to internship and entry-level developer opportunities.
 
@@ -78,6 +78,10 @@ B.Tech student in **Artificial Intelligence & Data Science** with a focus on **P
 <img src="https://leetcode-stats-six.vercel.app/?username=VIJAYAN_G&theme=dark" alt="LeetCode Stats" />
 
 </div>
+
+<!-- LEETCODE_SOLVED_START -->
+**Solved: 0 / 0 problems** (Easy: 0 | Medium: 0 | Hard: 0)
+<!-- LEETCODE_SOLVED_END -->
 
 <br>
 
