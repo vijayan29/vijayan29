@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayan29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayan29/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VIJAYAN_G/)
+[![Codolio](https://img.shields.io/badge/Codolio-6C4CE0?style=for-the-badge&logo=curl&logoColor=white)](https://codolio.com/profile/vijayan@29)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
