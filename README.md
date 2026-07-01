@@ -2,8 +2,9 @@
 
 # Vijayan G
 
-**AI & Data Science Student · PHP Full Stack Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;PHP+Full+Stack+Developer;Daily+LeetCode+Practitioner" alt="Typing SVG" />
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayan29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayan29/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/VIJAYAN_G/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -31,17 +32,6 @@ Open to internship and entry-level developer opportunities.
 
 <br>
 
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| [**Portfolio Website**](https://github.com/vijayan29/portfolio) | Personal portfolio showcasing skills, projects, and resume |
-| [**PHP Authentication System**](https://github.com/vijayan29/php-authentication) | Secure login/registration system built with PHP & MySQL |
-| [**Notes App**](https://github.com/vijayan29/notes-app) | Full stack notes application |
-| [**LeetCode Solutions**](https://github.com/vijayan29/leetcode-solutions) | Documented solutions to LeetCode problems, organized by topic |
-
-<br>
-
 ## GitHub Activity
 
 <div align="center">
@@ -62,6 +52,20 @@ Open to internship and entry-level developer opportunities.
 <img src="https://leetcode-stats-two-lyart.vercel.app/api?username=VIJAYAN_G&theme=light" alt="LeetCode Stats" />
 
 </div>
+
+<br>
+
+## Daily LeetCode Tracker
+
+Logging one problem a day to build consistency. Full write-ups live in my [LeetCode Solutions](https://github.com/vijayan29/leetcode-solutions) repo.
+
+| Date | Problem | Difficulty | Topic |
+|---|---|---|---|
+| 2026-07-01 | Two Sum | Easy | Arrays / Hashing |
+| 2026-06-30 | Valid Anagram | Easy | Strings / Hashing |
+| 2026-06-29 | Best Time to Buy and Sell Stock | Easy | Arrays |
+
+<sub>Updated daily — streak and total solved shown in the stats card above.</sub>
 
 <br>
 
